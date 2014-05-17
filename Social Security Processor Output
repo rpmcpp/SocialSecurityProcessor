@@ -1,0 +1,30 @@
+run:
+Name? 
+Sam Sly
+SSN? 
+333-00-999
+Invalid social security number, wrong number of characters
+Continue? 
+y
+Name? 
+George Washington
+SSN? 
+123-45-6789
+George Washington 123-45-6789 is valid
+Continue? 
+y
+Name? 
+Dudley Doright
+SSN? 
+222-00-999o
+Invalid social security number, contains a character that is not a digit
+Continue? 
+y
+Name? 
+Jane Doe
+SSN? 
+333-333-333
+Invalid social security number, dashes at wrong positions
+Continue? 
+n
+BUILD SUCCESSFUL (total time: 1 minute 50 seconds)
